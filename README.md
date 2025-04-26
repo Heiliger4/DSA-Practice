@@ -33,6 +33,4 @@ Explore the different folders for code implementations and explanations. Feel fr
 This project is open-source and available under the MIT License.
 ```
 
-Simply save the content above in a `.md` file, and it will be properly formatted on GitHub or any other markdown viewer. Don't forget to replace `yourusername/repository-name.git` with the correct link to your repository.
 
-Let me know if you'd like any more adjustments!
